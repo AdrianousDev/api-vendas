@@ -55,7 +55,6 @@ npm run dev
 
 **Partiu curso!**
 
-
 ## Redes Sociais
 
 [Site Conex Networks](https://conexnetworks.com.br)
